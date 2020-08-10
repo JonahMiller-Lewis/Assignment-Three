@@ -11,7 +11,7 @@ public class NearestNeighbor {
 Name: Jonah Miller
 Course Name: Programming Fundamentals
 Semester: Summer 2020
-Assignment Name: Programming Assignment 2 (Figures)
+Assignment Name: Programming Assignment 3 (Nearest Neighbor)
 */
 
 
